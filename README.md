@@ -1,4 +1,10 @@
-## Hi there, I'm Alec McGregor👋
+# Hi there, I'm Alec McGregor👋
+##About Me
+I'm a Biomedical Engineering master's student, minoring in Computer and Information Science at the University of Florida. I specialize in biomedical software, machine learning, and biomechanics research.<br>
+
+### How to reach me
+- [LinkedIn](https://www.linkedin.com/in/alecgmcgregor)  
+- Email: alec.mcgregor@email.com 
 
 <!--
 **alecmcgregor/alecmcgregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
