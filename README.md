@@ -1,5 +1,5 @@
-# Hi there, I'm Alec McGregor👋
-##About Me
+# Hi there, I'm Alec McGregor👋<br>
+## About Me
 I'm a Biomedical Engineering master's student, minoring in Computer and Information Science at the University of Florida. I specialize in biomedical software, machine learning, and biomechanics research.<br>
 
 ### How to reach me
